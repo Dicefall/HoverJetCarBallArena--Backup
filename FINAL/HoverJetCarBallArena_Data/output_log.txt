@@ -1,0 +1,69 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro 600 (ID=0xdf8)
+    Vendor:   NVIDIA
+    VRAM:     979 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\School_Fall_2015\FINAL\HoverJetCarBallArena_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\School_Fall_2015\FINAL\HoverJetCarBallArena_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\School_Fall_2015\FINAL\HoverJetCarBallArena_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\School_Fall_2015\FINAL\HoverJetCarBallArena_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\School_Fall_2015\FINAL\HoverJetCarBallArena_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\School_Fall_2015\FINAL\HoverJetCarBallArena_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\School_Fall_2015\FINAL\HoverJetCarBallArena_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\School_Fall_2015\FINAL\HoverJetCarBallArena_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\School_Fall_2015\FINAL\HoverJetCarBallArena_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\School_Fall_2015\FINAL\HoverJetCarBallArena_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\School_Fall_2015\FINAL\HoverJetCarBallArena_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\School_Fall_2015\FINAL\HoverJetCarBallArena_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\School_Fall_2015\FINAL\HoverJetCarBallArena_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\School_Fall_2015\FINAL\HoverJetCarBallArena_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\School_Fall_2015\FINAL\HoverJetCarBallArena_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.050 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\School_Fall_2015\FINAL\HoverJetCarBallArena_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 5e0 -> priority: 1 
+  Thread -> id: b34 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.640553 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 244.
+Total: 0.374756 ms (FindLiveObjects: 0.022081 ms CreateObjectMapping: 0.023014 ms MarkObjects: 0.304781 ms  DeleteObjects: 0.023636 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.552027 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 583.
+Total: 0.351431 ms (FindLiveObjects: 0.029856 ms CreateObjectMapping: 0.054736 ms MarkObjects: 0.258131 ms  DeleteObjects: 0.008397 ms)
+
+NetwrokDiscovery set broadbast data to:NetworkManager:localhost:7777
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Spawn scene object not found for 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.662483 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.812024 ms (FindLiveObjects: 0.043851 ms CreateObjectMapping: 0.057535 ms MarkObjects: 0.693222 ms  DeleteObjects: 0.016483 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.550161 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1211.
+Total: 0.501334 ms (FindLiveObjects: 0.027057 ms CreateObjectMapping: 0.052248 ms MarkObjects: 0.407411 ms  DeleteObjects: 0.014306 ms)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777}
+aissp: time {168691} lastRecTime {166637} DisTme {2000}, rtt {0} 
+ 
+(Filename:  Line: 1848)
+

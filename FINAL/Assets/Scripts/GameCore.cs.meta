@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b411dfc49a606554e8e655dfe8c0c282
+timeCreated: 1443382405
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Level: {instanceID: 0}
+  - PlayerOne: {instanceID: 0}
+  - GameCam: {fileID: 2029286, guid: 5ac8b2eacf558b54abdf0ce57f1d81a2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
